@@ -13,6 +13,7 @@ $ make clean
 ./dnsmasq-leases -h
 
 ./dnsmasq-leases dhcp.lease
+```
 {
     "Lease": [
         {
@@ -45,3 +46,4 @@ $ make clean
         }
     ]
 }
+```
